@@ -4,7 +4,7 @@
 
 # Weather App
 
-![Weather App]([https://weatherappfirstproject.netlify.app/favicon.ico](https://cdn.discordapp.com/attachments/1175850605797986344/1241308961907544105/image.png?ex=6649ba8e&is=6648690e&hm=07aaac1653f701fb0251d0c8bf6887bad622aa4edc4647d35f2a1cb33d533f3c&))
+
 
 ## Description
 
@@ -20,10 +20,7 @@ Weather App is a simple web application built with JavaScript that allows users 
 
 Check out the live application [here](https://weatherappfirstproject.netlify.app/).
 
-## Screenshots
 
-![Main Screen](https://weatherappfirstproject.netlify.app/screenshot1.png)
-![Weather Details](https://weatherappfirstproject.netlify.app/screenshot2.png)
 
 ## Installation and Usage
 
